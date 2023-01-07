@@ -1,3 +1,3 @@
 Erik
 
-Meta front-end developer course
+Meta front-end developer course. 
